@@ -1,0 +1,20 @@
+{
+  "name": "Vodacom HTTP Direct - VPN Store MZ",
+  "author": "VPN Store MZ | wa.me/258847888166",
+  "ssh_host": "",
+  "ssh_port": 0,
+  "ssh_username": "",
+  "ssh_password": "",
+  "payload": "GET / HTTP/1.1[crlf]Host: vodacom.co.mz[crlf]Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0[crlf][crlf]",
+  "proxy_host": "",
+  "proxy_port": 0,
+  "proxy_type": "DIRECT",
+  "remote_dns": "8.8.8.8",
+  "udp_enabled": false,
+  "slow_dns": false,
+  "use_ssh": false,
+  "connection_mode": "HTTP",
+  "operator": "Vodacom",
+  "country": "Mozambique",
+  "note": "Config HTTP Direct para Vodacom. Fácil de instalar e configurar. GRÁTIS! Suporte: wa.me/258847888166"
+}

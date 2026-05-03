@@ -1,0 +1,20 @@
+{
+  "name": "Movitel HTTP Boost - VPN Store MZ",
+  "author": "VPN Store MZ | wa.me/258847888166",
+  "ssh_host": "sg1.fastssh.com",
+  "ssh_port": 443,
+  "ssh_username": "vpnstore",
+  "ssh_password": "vpnstore2026",
+  "payload": "GET / HTTP/1.1[crlf]Host: movitel.co.mz[crlf]Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0[crlf][crlf]",
+  "proxy_host": "",
+  "proxy_port": 0,
+  "proxy_type": "DIRECT",
+  "remote_dns": "8.8.8.8",
+  "udp_enabled": false,
+  "slow_dns": false,
+  "use_ssh": true,
+  "connection_mode": "SSH",
+  "operator": "Movitel",
+  "country": "Mozambique",
+  "note": "Config HTTP para Movitel. Boa velocidade para redes sociais e streaming. Suporte: wa.me/258847888166"
+}
